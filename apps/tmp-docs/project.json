@@ -1,4 +1,5 @@
 {
+  "name": "tmp-docs",
   "sourceRoot": "apps/tmp-docs",
   "projectType": "application",
   "targets": {
